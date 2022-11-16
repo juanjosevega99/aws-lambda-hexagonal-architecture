@@ -1,0 +1,15 @@
+{
+  "name": "aws-lambda-hexagonal-architecture",
+  "version": "1.0.0",
+  "description": "Project with hexagonal architecture implemented in AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.1255.0",
+    "axios": "1.1.3"
+  }
+}
